@@ -5,7 +5,8 @@ Comandos a rodar no conda CMD para iniciar o projeto;
 ```
 pip install transformers
 pip install torch
-pip install accelerate -U
+pip install accelerate -U # modulo está deprecado
+pip install transformers[torch] # nao é reconhecido
 ```
 
 ## Tecnologias
