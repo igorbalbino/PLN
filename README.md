@@ -2,23 +2,23 @@
 
 Modelo de NLP para `Responder perguntas e gere textos criativos` criado com base em `Jurassic-1 Jumbo` da `Hugging Face`.
 
-### Tecnologias
+## Tecnologias
 
 Python3<br />
 Anaconda
 
-### Auxiliar
+## Auxiliar
 
-Hugging Face - `https://huggingface.co/`
-Kaggle - `https://www.kaggle.com/`
-Google Gemini - `https://gemini.google.com/`
+Hugging Face - `https://huggingface.co/`<br />
+Kaggle - `https://www.kaggle.com/`<br />
+Google Gemini - `https://gemini.google.com/`<br />
 
-### Datasets
+## Datasets
 
-Mental Health FAQ for Chatbot - `https://www.kaggle.com/datasets/narendrageek/mental-health-faq-for-chatbot`
-Question-Answer combination - `https://www.kaggle.com/datasets/veeralakrishna/questionanswer-combination`
-Yahoo Answers Topics Dataset - `https://www.kaggle.com/datasets/thedevastator/yahoo-answers-topics-dataset`
-CoQA Conversational Question Answering Dataset - `https://www.kaggle.com/datasets/jeromeblanchet/conversational-question-answering-dataset-coqa`
+Mental Health FAQ for Chatbot - `https://www.kaggle.com/datasets/narendrageek/mental-health-faq-for-chatbot`<br />
+Question-Answer combination - `https://www.kaggle.com/datasets/veeralakrishna/questionanswer-combination`<br />
+Yahoo Answers Topics Dataset - `https://www.kaggle.com/datasets/thedevastator/yahoo-answers-topics-dataset`<br />
+CoQA Conversational Question Answering Dataset - `https://www.kaggle.com/datasets/jeromeblanchet/conversational-question-answering-dataset-coqa`<br />
 
 ## Autor
 
