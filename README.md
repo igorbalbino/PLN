@@ -110,6 +110,9 @@ Deu parcialmente certo... Gera respostas disconexas mas acho q é pq a func pred
 
 Como quinta tentativa, usei um dos tutoriais que estão acima... `https://youtu.be/auhqTBpiC6U?si=J4bJXvvNbhCAnk2C`.
 
+Implementei o código e parece funcionar normal no video mas aqui da problema de memória.
+Vou dar um jeito de testar num pc melhor depois...
+
 ## Tecnologias
 
 Python3 <br />
