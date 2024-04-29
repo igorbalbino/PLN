@@ -113,6 +113,16 @@ Como quinta tentativa, usei um dos tutoriais que estão acima... `https://youtu.
 Implementei o código e parece funcionar normal no video mas aqui da problema de memória.
 Vou dar um jeito de testar num pc melhor depois...
 
+Funcionou mas da respostas desconexas. Monta frases colocando palavras repetidas inúmeras vezes.
+
+<hr />
+
+Como sexta tentativa tentei seguir apenas o tutorial que gerei pelo gemini um tempo atrás, para a quarta tentativa.
+Fiz passo a passo que é indicado no tutorial e cheguei  a etapa de criar o modelo. criei com Sequential e com Model mas apenas o Model apresenta números consistentes no `.summary()`.
+Para treinar o modelo, vou precisar de outra forma pois os dados que mandei estão com shape errado.
+Tentei usar um Rechaper na criação do modelo e nas `embedded_sequences` mas nada funcionou.
+Tentando outras soluções.
+
 ## Tecnologias
 
 Python3 <br />
