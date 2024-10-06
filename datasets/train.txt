@@ -1,0 +1,2 @@
+Usuário: Como abrir o mapa da rede ? ### Chatbot: Clique no ícone do sistema "OLT Viewer". Vá na opção, "Mapa da Rede".
+Usuário: O que fazer quando a rede cair ? ### Chatbot: Verifique a última caixa com sinal pelo mapa da rede e tente reiniciar a primeira caixa que ficou sem sinal.
